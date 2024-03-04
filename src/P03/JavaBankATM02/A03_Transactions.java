@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Random;
 import java.util.Scanner;
 
-import static advancedJavaPractice.JavaProjects.P02_javaBankATM.JavaBankATM02.A04_ChoiceMenu.*;
+import static P03.JavaBankATM02.A04_ChoiceMenu.*;
 
 
 public class A03_Transactions<pin1> {

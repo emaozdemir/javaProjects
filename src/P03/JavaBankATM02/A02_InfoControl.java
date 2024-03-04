@@ -1,9 +1,9 @@
 package P03.JavaBankATM02;
 import java.util.Scanner;
 
-import static j100_javaProjects.P03_javaBankATM.JavaBankATM02.A03_Transactions.checkIbanAndPassword;
-import static j100_javaProjects.P03_javaBankATM.JavaBankATM02.A03_Transactions.checkPin;
-import static j100_javaProjects.P03_javaBankATM.JavaBankATM02.A04_ChoiceMenu.menuChoice;
+import static P03.JavaBankATM02.A03_Transactions.checkIbanAndPassword;
+import static P03.JavaBankATM02.A03_Transactions.checkPin;
+import static P03.JavaBankATM02.A04_ChoiceMenu.menuChoice;
 
 
 public class A02_InfoControl {

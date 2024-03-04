@@ -1,5 +1,7 @@
 package P03.JavaBankATM02;
-import static advancedJavaPractice.JavaProjects.P02_javaBankATM.JavaBankATM02.A02_InfoControl.atmStart;
+
+
+import static P03.JavaBankATM02.A02_InfoControl.atmStart;
 
 public class A01_UserScreen {
 
