@@ -1,0 +1,35 @@
+BİR OKUL YÖNETİM PLATFORMU KODLAYINIZ.
+
+	1.	Bu App, Öğrenci ve Öğretmen Kayıtları ile ilgili işlemler yapılabilmelidir.
+		Kayıtlarda aşağıdaki bilgiler olmalıdır.
+
+		Öğretmen: Ad-Soyad,  kimlikNo, yaş, bölüm, ve sicilNo
+		Öğrenci: Ad-Soyad,  kimlikNo, yaş, numara, sınıf
+
+	2.	App açılışında  Kullanıcıya, Öğretmen ve Öğrenci işlemlerini seçebilmesi için
+		Aşağıdaki gibi bir menü gösterilmeli.
+
+	====================================
+	 ÖĞRENCİ VE ÖĞRETMEN YÖNETİM PANELİ
+	====================================
+	 1- ÖĞRENCİ İŞLEMLERİ
+	 2- ÖĞRETMEN İŞLEMLERİ
+	 Q- ÇIKIŞ
+
+	3.	Seçilen Kişi türüne göre aşağıdaki işlemleri gösteren bir alt menü daha gösterilmeli.
+
+	============= İŞLEMLER =============
+		 1-EKLEME
+		 2-ARAMA
+		 3-LİSTELEME
+		 4-SİLME
+		 5-ANA MENÜ
+		 Q-ÇIKIŞ
+
+	SEÇİMİNİZ:
+
+	4.	İşlemler menüsünde seçilen işleme göre bir önceki menüde seçilen Kişi türü ile ilgili
+	    ekleme, kimlik no ile silme ve arama, var olan tüm kişileri listeleme gibi işlemler yapılabilmelidir.
+		Bunun yanında bir üst menüye dönme veya çıkış işlemleri de yapılabilmelidir.
+
+ */
