@@ -1,6 +1,5 @@
 package P03.kahveMakinesi;
 
-import j24_Inheritance.task01.B;
 
 import java.util.ArrayList;
 import java.util.Arrays;

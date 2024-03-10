@@ -1,24 +1,22 @@
 package P04;
 
-public class Kisi {//parent pojo class (obje ureten en temel proje)
+public class Kisi {//parent pojo class
     //fields...
     private String adSoyad;
     private String kimlikNo;
     private int yas;
 
-    //constructor
-    public Kisi(String adSoyad, String kimlikNo, int yas) {//full parametrli telescopic constructor
 
+
+    //Constructor...
+    public Kisi() {//p'Siz sefil cons
+    }
+    public Kisi(String adSoyad, String kimlikNo, int yas) {//Full p2li telescopic cons..
         this.adSoyad = adSoyad;
         this.kimlikNo = kimlikNo;
         this.yas = Math.abs(yas);
     }
-
-    public Kisi() {//psiz cons
-    }
-
-    //getter setter method
-
+    // getter-seter meth.
 
     public String getAdSoyad() {
         return adSoyad;
@@ -32,10 +30,6 @@ public class Kisi {//parent pojo class (obje ureten en temel proje)
         return kimlikNo;
     }
 
-//    public void setKimlikNo(String kimlikNo) {//kontrol amaclı silerim
-//        this.kimlikNo = kimlikNo;
-//    }
-
     public int getYas() {
         return yas;
     }
@@ -43,6 +37,8 @@ public class Kisi {//parent pojo class (obje ureten en temel proje)
     public void setYas(int yas) {
         this.yas = yas;
     }
+    //toString
+
 
     @Override
     public String toString() {
@@ -52,6 +48,7 @@ public class Kisi {//parent pojo class (obje ureten en temel proje)
                         ", yas=" + yas;
     }
 }
+
 
 
 

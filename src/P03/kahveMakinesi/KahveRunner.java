@@ -1,7 +1,7 @@
 package P03.kahveMakinesi;
 
 
-import static j100_javaProjects.P03.KahveMakinesi.Kahve.BOLD;
+
 
 
 public class KahveRunner {
