@@ -1,4 +1,4 @@
-package P03;
+package P03.kahve;
 
 import java.util.ArrayList;
 import java.util.Arrays;
