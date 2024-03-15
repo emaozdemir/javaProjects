@@ -60,5 +60,7 @@ todo İPUCU:  toplamTutar, işlem, FrankfurtKm, KmBirimFiyat   gibi sabit veri t
          */
 
 
+
+
     }
 }

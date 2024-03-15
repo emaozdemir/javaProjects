@@ -1,5 +1,7 @@
 package P02;
 
+import java.util.Scanner;
+
 class Task04_TopZıplamaMesafeSaysı {
 
    /* HAFTANIN TASK'iiii :-)
@@ -11,6 +13,20 @@ class Task04_TopZıplamaMesafeSaysı {
     */
 
     public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("topu kaç metreden bırakacaksın? ");
+        double yukseklik = scan.nextDouble();
+        double toplamMesafe = 0;
+        int topVurus = 0;
+
+        do {
+            yukseklik *= 0.75;
+            toplamMesafe += yukseklik;
+            topVurus++;
+
+        } while (yukseklik >= 1);
+        System.out.println(toplamMesafe+ " metre");
+        System.out.println("topVurus = " + topVurus);
 
 
     }

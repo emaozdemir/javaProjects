@@ -27,7 +27,7 @@ public class Islemler {
                 islemMenu();
                 break;
             case "Q":
-                cıkıs();
+                cikis();
                 break;
             default:
                 System.out.println("Hatalı giriş yaptınız tekrar deneyiniz ");
@@ -190,7 +190,7 @@ public class Islemler {
 
     }
 
-    private static void cıkıs() {
+    private static void cikis() {
         System.out.println("Agam yine bekleriz SELAMETLEEE :)");
         System.exit(0);
     }
