@@ -1,4 +1,4 @@
-package P04;
+package P04_Okul;
 
 public class Kisi {//parent pojo class
     //fields...

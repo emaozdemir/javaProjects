@@ -1,7 +1,7 @@
-package P04;
+package P04_Okul;
 
 
-import static P04.Islemler.girisPaneli;
+import static P04_Okul.Islemler.girisPaneli;
 
 public class Runner {
 

@@ -1,4 +1,4 @@
-package P04;
+package P04_Okul;
 
 public class Ogrenci extends Kisi {//Kisi parnet Class'a extend child pojo Class
     //fields

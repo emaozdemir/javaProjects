@@ -1,4 +1,4 @@
-package P04;
+package P04_Okul;
 
 import java.util.ArrayList;
 import java.util.List;
