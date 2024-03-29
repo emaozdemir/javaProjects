@@ -2,7 +2,7 @@ package P06_OkulYonetim;
 
 import java.util.Scanner;
 
-public class TryCatch {
+public class TryCatch {// daha sonra incele
 
     static  Scanner scan = new Scanner(System.in);
     public static int intGirisi() {

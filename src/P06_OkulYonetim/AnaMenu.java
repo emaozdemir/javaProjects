@@ -13,7 +13,7 @@ public class AnaMenu implements AnaMenuInterface {
                 "\t====================================\n" +
                 "\t 1- ÖĞRENCİ İŞLEMLERİ\n" +
                 "\t 2- ÖĞRETMEN İŞLEMLERİ\n" +
-                "\t Q- ÇIKIŞ");
+                "\t Q- ÇIKIŞ\nsecimi girin: ");
 
         String secim = scan.next().toUpperCase();
         switch (secim) {
